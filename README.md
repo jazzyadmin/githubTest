@@ -148,6 +148,6 @@ trademarks or logos is subject to and must follow
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos is subject to those third-parties' policies.
 
-Building Info
-Go to the Delta building on the 5th floor for any questions from the IT team.
+Building Location
+Go to the Delta building on the 5th floor for any questions of the IT team.
 
